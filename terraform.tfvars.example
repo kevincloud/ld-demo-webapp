@@ -1,0 +1,4 @@
+aws_region        = "us-east-2"
+unique_identifier = "coastdemo"
+website_bucket    = "demobuilderapp"
+owner             = "youremail@launchdarkly.com"
